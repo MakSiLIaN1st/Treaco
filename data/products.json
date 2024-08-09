@@ -1,0 +1,14 @@
+[
+    {
+        "id":0,
+        "name":"USA",
+        "price":"1000$",
+        "img":"src/USA.png"
+    },
+    {
+        "id":1,
+        "name":"France",
+        "price":"1000$",
+        "img":"src/Fra.png"
+    }
+]
